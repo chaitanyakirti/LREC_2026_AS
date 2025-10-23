@@ -4,17 +4,17 @@
 সমস্যাৰ	O
 দ্বাৰা	O
 সকলোৱে	O
-প্ৰভাৱিত	COGNITIVE-MENTAL-STATE
-হৈছিল	COGNITIVE-MENTAL-STATE
+প্ৰভাৱিত	COGNITIVE-MENTAL-STATE-B
+হৈছিল	COGNITIVE-MENTAL-STATE-I
 ।	O
 
 তেওঁলোকক	O
-ভাল	COGNITIVE-MENTAL-STATE
-লাগিছিল	COGNITIVE-MENTAL-STATE
+ভাল	COGNITIVE-MENTAL-STATE-B
+লাগিছিল	COGNITIVE-MENTAL-STATE-I
 আৰু	O
 ভালদৰে	O
-খাপ	OTHERS
-খাইছিল	OTHERS
+খাপ	OTHERS-B
+খাইছিল	OTHERS-I
 ।	O
 
 ডিম্পি	O
@@ -40,7 +40,7 @@
 এটা	O
 বিতৰণ	O
 কৰিবলৈ	O
-গৈছিল	MOVEMENT
+গৈছিল	MOVEMENT-B
 ।	O
 
 "	O
@@ -51,5 +51,5 @@
 এলি	O
 এলিফেণ্টে	O
 নম্ৰতাৰে	O
-কৈছিল	COMMUNICATION
+কৈছিল	COMMUNICATION-B
 ।	O
